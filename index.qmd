@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
 ---
 
 <h1 class="roboto-black to-upper" style="font-size: 2.5em;">Joel Barnes</h1>
@@ -20,7 +20,7 @@ title: ""
 
 <h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Experience</h3>
 
-<h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0;">Data Scientist</h4>
+<h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
   <span class="roboto-bold">Statistics Canada</span>
@@ -30,13 +30,13 @@ title: ""
   <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
   Ottawa, Canada
   <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-    <li>Outcome 1</li>
+    <li>Develop and maintain <a href="https://www.statcan.gc.ca/en/microsimulation/modgen/new/mods/pohem" target="_blank">POHEM</a>, a longitudinal microsimulation model that forecasts various health risk factors and outcomes (e.g., obesity, diabetes, dementia) in Canadians from 2001 to 2050, and that is used by the Government of Canada to inform policy decisions.</li>
     <li>Outcome 2</li>
     <li>Outcome 3</li>
   </ul>
 </p>
 
-<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0;">Data Scientist</h4>
+<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
   <span class="roboto-bold">CHEO Research Institute</span>
@@ -52,7 +52,7 @@ title: ""
   </ul>
 </p>
 
-<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0;">Freelance Web Developer</h4>
+<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">Freelance Web Developer</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
   <span class="roboto-bold">Barnzilla Web Development</span>
@@ -82,7 +82,7 @@ title: ""
 
 <p class="roboto-black color-grey1">Modeling, Analysis and Visualization
   <br />
-  <span class="roboto-light color-black">R, Python, C++, Shiny, Quarto</span>
+  <span class="roboto-light color-black">R, OpenM++, C++, Python, SQLite, Shiny, Quarto</span>
 </p>
 
 <p class="roboto-black color-grey1">Builds, Deployment and Pipelines
@@ -92,7 +92,7 @@ title: ""
 
 <p class="roboto-black color-grey1">Stacks
   <br />
-  <span class="roboto-light color-black">Debian, Ubuntu, Apache, Nginx, MySQL, MariaDB, SQLite, PHP</span>
+  <span class="roboto-light color-black">Debian, Ubuntu, Apache, Nginx, MySQL, MariaDB, PHP</span>
 </p>
 
 <p class="roboto-black color-grey1">Frontend
@@ -102,7 +102,7 @@ title: ""
 
 <h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Education</h3>
 
-<h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0;">MSc in Kinesiology</h4>
+<h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">MSc in Kinesiology</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
   <span class="roboto-bold">University of Saskatchewan</span>

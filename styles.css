@@ -73,9 +73,14 @@
   font-style: italic;
 }
 
-/* Colors */
+/* Body */
+body p, body ul { font-size: 0.85em; color: black; }
+body ul { margin-left: -1em; }
+body a { color: rgb(30, 144, 255); text-decoration: none; }
+body a:hover { color: black; }
 
-.color-black { color: rgb(0, 0, 0); }
+/* Colors */
+.color-black { color: black; }
 .color-grey1 { color: #848484; }
 .color-blue { color: rgb(30, 144, 255); }
 .color-red { color: red; }

@@ -6,11 +6,11 @@ title: ""
 
 <h4 style="margin-top: -0.85em; padding-top: 0;" class="roboto-bold color-grey1">Data Scientist | Model Developer | Analytics</h4>
 
-<p class="roboto-light color-black" style="font-size: 0.8em;">
-  <span class="roboto-light color-blue">{{< fa envelope >}}</span> <a href="mailto:j@barnzilla.ca" class="color-black no-underline">j@barnzilla.ca</a>
+<p class="roboto-light">
+  <span class="roboto-light color-blue">{{< fa envelope >}}</span> <a href="mailto:j@barnzilla.ca">j@barnzilla.ca</a>
   <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa phone >}}</span> (613) 408-6089
-  <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank" class="color-black no-underline">github.com/barnzilla</a>
-  <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank" class="color-black no-underline">linkedin.com/in/joel-barnes-5a80a449</a>
+  <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank">github.com/barnzilla</a>
+  <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank">linkedin.com/in/joel-barnes-5a80a449</a>
   <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
 </p>
 
@@ -23,11 +23,11 @@ title: ""
 <h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0;">Data Scientist</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold color-grey1">Statistics Canada</span>
+  <span class="roboto-bold">Statistics Canada</span>
   <br />
-  <span class="roboto-light color-blue">{{< fa calendar-days >}}</span> 
+  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
   2020 - present
-  <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span>
+  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
   Ottawa, Canada
   <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
     <li>Outcome 1</li>
@@ -39,11 +39,11 @@ title: ""
 <h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0;">Data Scientist</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold color-grey1">CHEO Research Institute</span>
+  <span class="roboto-bold">CHEO Research Institute</span>
   <br />
-  <span class="roboto-light color-blue">{{< fa calendar-days >}}</span> 
+  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
   2008 - 2019
-  <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span>
+  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
   Ottawa, Canada
   <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
     <li>Outcome 1</li>
@@ -55,11 +55,11 @@ title: ""
 <h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0;">Freelance Web Developer</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold color-grey1">Barnzilla Web Development</span>
+  <span class="roboto-bold">Barnzilla Web Development</span>
   <br />
-  <span class="roboto-light color-blue">{{< fa calendar-days >}}</span> 
+  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
   2006 - present
-  <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span>
+  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
   Ottawa, Canada
   <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
     <li>Outcome 1</li>
@@ -80,24 +80,24 @@ title: ""
 
 <h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Skills</h3>
 
-<p class="roboto-bold color-grey1">Modeling, Analysis and Visualization
+<p class="roboto-black color-grey1">Modeling, Analysis and Visualization
   <br />
   <span class="roboto-light color-black">R, Python, C++, Shiny, Quarto</span>
 </p>
 
-<p class="roboto-bold color-grey1">Builds, Deployment and Pipelines
+<p class="roboto-black color-grey1">Builds, Deployment and Pipelines
   <br />
-  <span class="roboto-light color-black">Azure Data Factory, Azure Data Lake, Azure Databricks, Apache Spark, Kubeflow, Kubernetes, Jupyter Notebook, Docker, Grafana</span>
+  <span class="roboto-light color-black">Azure Data Factory, Azure Data Lake, Azure Databricks, Apache Spark, DigitalOcean droplets, Kubeflow, Kubernetes, Jupyter Notebook, Docker, Grafana</span>
 </p>
 
-<p class="roboto-bold color-grey1">Stacks
+<p class="roboto-black color-grey1">Stacks
   <br />
   <span class="roboto-light color-black">Debian, Ubuntu, Apache, Nginx, MySQL, MariaDB, SQLite, PHP</span>
 </p>
 
-<p class="roboto-bold color-grey1">Frontend
+<p class="roboto-black color-grey1">Frontend
   <br />
-  <span class="roboto-light color-black">HTML, CSS/SCSS, jQuery, JavaScript, DataTables, WordPress</span>
+  <span class="roboto-light color-black">HTML, CSS/SCSS, jQuery, JavaScript, DataTables, WordPress, React, Vue</span>
 </p>
 
 <h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Education</h3>
@@ -105,9 +105,9 @@ title: ""
 <h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0;">MSc in Kinesiology</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold color-grey1">University of Saskatchewan</span>
+  <span class="roboto-bold">University of Saskatchewan</span>
   <br />
-  <span class="roboto-light color-blue">{{< fa location-dot >}}</span>
+  <span class="roboto-light color-grey1">{{< fa location-dot >}}</span>
   Saskatoon, Canada
 </p>
 

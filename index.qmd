@@ -2,14 +2,14 @@
 title: ""
 ---
 
-<h1 class="fw-heavy to-upper" style="font-size: 2.5em;">Joel Barnes</h1>
+<h1 class="roboto-black to-upper" style="font-size: 2.5em;">Joel Barnes</h1>
 
-<h4 style="margin-top: -0.85em; padding-top: 0;" class="fw-medium color-blue">Data Scientist | Model Developer | Analytics</h4>
+<h4 style="margin-top: -0.85em; padding-top: 0;" class="roboto-medium color-grey1">Data Scientist | Model Developer | Analytics</h4>
 
-<p class="fw-light color-black" style="margin-top: 1em; font-size: 0.85em;">
-<span class="fw-light color-blue">{{< fa envelope >}}</span> <a href="mailto:j@barnzilla.ca" class="color-black no-underline">j@barnzilla.ca</a>
-<span class="fw-light color-blue" style="margin-left: 8px;">{{< fa phone >}}</span> (613) 408-6089
-<span class="fw-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank" class="color-black no-underline">github.com/barnzilla</a>
-<span class="fw-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank" class="color-black no-underline">linkedin.com/in/joel-barnes-5a80a449</a>
-<span class="fw-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
+<p class="roboto-light color-black" style="margin-top: 1em; font-size: 0.85em;">
+<span class="roboto-light color-blue">{{< fa envelope >}}</span> <a href="mailto:j@barnzilla.ca" class="color-black no-underline">j@barnzilla.ca</a>
+<span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa phone >}}</span> (613) 408-6089
+<span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank" class="color-black no-underline">github.com/barnzilla</a>
+<span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank" class="color-black no-underline">linkedin.com/in/joel-barnes-5a80a449</a>
+<span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
 </p>

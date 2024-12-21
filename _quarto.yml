@@ -16,6 +16,7 @@ format:
     css: styles.css
     toc: true
     mainfont: "Roboto"
+    page-layout: full
 
 
 

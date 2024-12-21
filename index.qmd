@@ -11,6 +11,5 @@ title: ""
 <span class="fw-light color-blue" style="margin-left: 8px;">{{< fa phone >}}</span> (613) 408-6089
 <span class="fw-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank" class="color-black no-underline">github.com/barnzilla</a>
 <span class="fw-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank" class="color-black no-underline">linkedin.com/in/joel-barnes-5a80a449</a>
-<br/>
-<span class="fw-light color-blue">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
+<span class="fw-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
 </p>

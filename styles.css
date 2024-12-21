@@ -1,1 +1,10 @@
 /* css styles */
+.color-black { color: rgb(0, 0, 0); }
+.color-blue { color: rgb(30, 144, 255); }
+.color-red { color: red; }
+.fw-heavy { font-weight: 900; }
+.fw-medium { font-weight: 600; }
+.fw-normal { font-weight: 400; }
+.fw-light { font-weight: 200; }
+.to-upper { text-transform: uppercase; }
+.no-underline { text-decoration: none; }

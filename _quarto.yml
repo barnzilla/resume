@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "resume"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Resume"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    mainfont: "Roboto"
 
 
 

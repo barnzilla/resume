@@ -30,13 +30,66 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
   <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
   Ottawa, Canada
   <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-    <li>Develop and maintain <a href="https://www.statcan.gc.ca/en/microsimulation/modgen/new/mods/pohem" target="_blank">POHEM</a>, a longitudinal microsimulation model that forecasts various health risk factors and outcomes (e.g., obesity, diabetes, dementia) in Canadians from 2001 to 2050, and that is used by the Government of Canada to inform policy decisions.</li>
-    <li>Outcome 2</li>
-    <li>Outcome 3</li>
+    <li>Develop and maintain <a href="https://www.statcan.gc.ca/en/microsimulation/modgen/new/mods/pohem" target="_blank">POHEM</a> (a longitudinal microsimulation model that forecasts various health risk factors and outcomes &mdash; obesity, diabetes, dementia, cardiovascular disease &mdash; in Canadians from 2001 to 2050) that is used by the Government of Canada to inform policy decisions.</li>
+    <li>Authored and maintain <strong>chms</strong> (an internal, object-oriented R package that applies sleep, physical activity and sedentary behaviour algorithms to accelerometer-measured time series data) that a division with no open source expertise used to process accelerometer data on 4,000+ participants for cycle 7 of a nationally representative survey, the <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5071" target="_blank">Canadian Health Measures Survey</a>.</li>
+    <li>Authored and maintain <strong>ompp4aaw</strong> (an internal R package that allows users with little or no proficiency in Linux distributions and Kubernetes to install, compile and run their models) that is used by model developers across several microsimulation divisions.</li>
+    <li>Authored and maintain <a href="https://613apps.ca/data-dictionary-builder" target="_blank">Data Dictionary Builder</a> (an R Shiny web-based app that groups survey metadata from flat files across multiple cycles of several national surveys and makes it searchable) that enables Statistics Canada analysts and external researchers to find variables and plan analyses more efficiently.</li>
+    <li><a href="https://www.statcan.gc.ca/en/data-science/network/ppe-demand" target="_blank">Modeled Covid-19 cases in nine Canadian provinces</a> on a weekly basis during the Covid-19 pandemic using compartment models via a co-authored R package, <a href="https://github.com/statcan/episim" target="_blank">EpiSim</a>. Created scenarios that forecasted Covid-19 cases one year into the future. Results were used downstream in a Microsoft Azure pipeline to help the Government of Canada forecast personal protective equipment demand and make evidence-informed procurement decisions.</li>
   </ul>
 </p>
 
-<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
+:::
+
+::: {.column width="3%"}
+
+<!-- empty column to create gap -->
+
+:::
+
+::: {.column width="37%"}
+
+<h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Skills</h3>
+
+<p class="roboto-black color-grey1">Modeling, Analysis and Visualization
+  <br />
+  <span class="roboto-light color-black">R, Python, OpenM++, C++, SQLite, Shiny, Quarto</span>
+</p>
+
+<p class="roboto-black color-grey1">Builds, Deployment and Pipelines
+  <br />
+  <span class="roboto-light color-black">Azure Data Factory, Azure Data Lake, Azure Databricks, Apache Spark, DigitalOcean droplets, Kubeflow, Kubernetes, Jupyter Notebook, Docker, Grafana</span>
+</p>
+
+<p class="roboto-black color-grey1">Stacks
+  <br />
+  <span class="roboto-light color-black">Debian, Ubuntu, Apache, Nginx, MySQL, MariaDB, PHP</span>
+</p>
+
+<p class="roboto-black color-grey1">Frontend
+  <br />
+  <span class="roboto-light color-black">HTML, CSS/SCSS, jQuery, JavaScript, DataTables, WordPress, React, Vue</span>
+</p>
+
+<h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Education</h3>
+
+<h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">MSc in Kinesiology</h4>
+
+<p class="roboto-light color-black" style="margin-bottom: 0;">
+  <span class="roboto-bold">University of Saskatchewan</span>
+  <br />
+  <span class="roboto-light color-grey1">{{< fa location-dot >}}</span>
+  Saskatoon, Canada
+</p>
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="100%"}
+
+<h4 class="roboto-light color-grey1" style="margin-top: 0.65em; margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
 
 <p class="roboto-light color-black" style="margin-bottom: 0;">
   <span class="roboto-bold">CHEO Research Institute</span>
@@ -66,49 +119,6 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
     <li>Outcome 2</li>
     <li>Outcome 3</li>
   </ul>
-</p>
-
-:::
-
-::: {.column width="3%"}
-
-<!-- empty column to create gap -->
-
-:::
-
-::: {.column width="37%"}
-
-<h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Skills</h3>
-
-<p class="roboto-black color-grey1">Modeling, Analysis and Visualization
-  <br />
-  <span class="roboto-light color-black">R, OpenM++, C++, Python, SQLite, Shiny, Quarto</span>
-</p>
-
-<p class="roboto-black color-grey1">Builds, Deployment and Pipelines
-  <br />
-  <span class="roboto-light color-black">Azure Data Factory, Azure Data Lake, Azure Databricks, Apache Spark, DigitalOcean droplets, Kubeflow, Kubernetes, Jupyter Notebook, Docker, Grafana</span>
-</p>
-
-<p class="roboto-black color-grey1">Stacks
-  <br />
-  <span class="roboto-light color-black">Debian, Ubuntu, Apache, Nginx, MySQL, MariaDB, PHP</span>
-</p>
-
-<p class="roboto-black color-grey1">Frontend
-  <br />
-  <span class="roboto-light color-black">HTML, CSS/SCSS, jQuery, JavaScript, DataTables, WordPress, React, Vue</span>
-</p>
-
-<h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Education</h3>
-
-<h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">MSc in Kinesiology</h4>
-
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold">University of Saskatchewan</span>
-  <br />
-  <span class="roboto-light color-grey1">{{< fa location-dot >}}</span>
-  Saskatoon, Canada
 </p>
 
 :::

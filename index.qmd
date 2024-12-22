@@ -14,10 +14,6 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
   <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
 </p>
 
-:::: {.columns}
-
-::: {.column width="60%"}
-
 <h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Experience</h3>
 
 <h4 class="roboto-light color-grey1" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
@@ -38,15 +34,37 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
   </ul>
 </p>
 
-:::
+<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
 
-::: {.column width="3%"}
+<p class="roboto-light color-black" style="margin-bottom: 0;">
+  <span class="roboto-bold">CHEO Research Institute</span>
+  <br />
+  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
+  2008 - 2019
+  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
+  Ottawa, Canada
+  <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
+    <li>Performed various modeling techniques on large datasets related to movement behaviours (physical activity, sedentary behavior, sleep) and health outcomes in children and youth. Analyses have been published in <a href="https://scholar.google.com/citations?user=oIMGmrQAAAAJ&hl=en" target="_blank">70+ peer-reviewed publications</a> contributing to an h-index of <a href="https://scholar.google.com/citations?user=oIMGmrQAAAAJ&hl=en" target="_blank">40</a>, which is equivalent to the research output of a full professor.</li>
+    <li>Served as a “full-stack” web developer that designed, built and maintained five websites on LAMP stacks: <a href="https://www.activehealthykids.org" target="_blank">activehealthykids.org</a>, <a href="https://web.archive.org/web/20220627075842/https://www.capl-eclp.ca" target="_blank">capl-eclp.ca</a>, <a href="https://www.haloresearch.ca" target="_blank">haloresearch.ca</a>, <a href="https://www.outdoorplaycanada.ca" target="_blank">outdoorplaycanada.ca</a>, <a href="https://www.sedentarybehaviour.org" target="_blank">sedentarybehaviour.org</a>. </li>
+    <li>Served as lead author on seven <a href="https://www.participaction.com/the-science/children-and-youth-report-card" target="_blank">ParticipACTION Report Cards on Physical Activity for Children and Youth</a> (2011-2016, 2018), a knowledge translation product that <a href="https://journals.humankinetics.com/view/journals/jpah/11/s1/article-pS3.xml" target="_blank">has received one billion+ media impressions and that has an estimated collective ad value of $10 million+</a>.</li>
+  </ul>
+</p>
 
-<!-- empty column to create gap -->
+<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">Freelance Web Developer</h4>
 
-:::
-
-::: {.column width="37%"}
+<p class="roboto-light color-black" style="margin-bottom: 0;">
+  <span class="roboto-bold">Barnzilla Web Development</span>
+  <br />
+  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
+  2006 - present
+  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
+  Ottawa, Canada
+  <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
+    <li>Develop, design and maintain custom websites for clients on virtual private servers (LAMP stacks). Some of these clients are academic research networks where custom code is actively deployed to handle all aspects of conference management (e.g., abstract submission and review, membership and conference registration, fee processing).</li>
+    <li>Develop custom web-based dashboards that reshape, filter and visualize data based on user behavior (e.g., <a href="https://613apps.ca/cgc" target="_blank">Canada Grains Council Trade Data Online</a>, <a href="https://613apps.ca/covid19" target="_blank">Covid-19 cases in Canada</a>).</li>
+    <li>Have developed and designed 50+ websites for clients since 2006.</li>
+  </ul>
+</p>
 
 <h3 class="roboto-black to-upper" style="border-bottom: 2px solid black;">Skills</h3>
 
@@ -80,47 +98,3 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
   <span class="roboto-light color-grey1">{{< fa location-dot >}}</span>
   Saskatoon, Canada
 </p>
-
-:::
-
-::::
-
-:::: {.columns}
-
-::: {.column width="100%"}
-
-<h4 class="roboto-light color-grey1" style="margin-top: 0.65em; margin-bottom: 0; padding-top: 0; font-size: 1em;">Data Scientist</h4>
-
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold">CHEO Research Institute</span>
-  <br />
-  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
-  2008 - 2019
-  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
-  Ottawa, Canada
-  <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-    <li>Performed various modeling techniques on large datasets related to movement behaviours (physical activity, sedentary behavior, sleep) and health outcomes in children and youth. Analyses have been published in <a href="https://scholar.google.com/citations?user=oIMGmrQAAAAJ&hl=en" target="_blank">70+ peer-reviewed publications</a> contributing to an h-index of <a href="https://scholar.google.com/citations?user=oIMGmrQAAAAJ&hl=en" target="_blank">40</a>, which is equivalent to the research output of a full professor.</li>
-    <li>Served as a “full-stack” web developer that designed, built and maintained five websites on LAMP stacks: <a href="https://www.activehealthykids.org" target="_blank">activehealthykids.org</a>, <a href="https://web.archive.org/web/20220627075842/https://www.capl-eclp.ca" target="_blank">capl-eclp.ca</a>, <a href="https://www.haloresearch.ca" target="_blank">haloresearch.ca</a>, <a href="https://www.outdoorplaycanada.ca" target="_blank">outdoorplaycanada.ca</a>, <a href="https://www.sedentarybehaviour.org" target="_blank">sedentarybehaviour.org</a>. </li>
-    <li>Served as lead author on seven <a href="https://www.participaction.com/the-science/children-and-youth-report-card" target="_blank">ParticipACTION Report Cards on Physical Activity for Children and Youth</a> (2011-2016, 2018), a knowledge translation product that <a href="https://journals.humankinetics.com/view/journals/jpah/11/s1/article-pS3.xml" target="_blank">has received one billion+ media impressions and that has an estimated collective ad value of $10 million+</a>.</li>
-  </ul>
-</p>
-
-<h4 class="roboto-light color-grey1" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">Freelance Web Developer</h4>
-
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-  <span class="roboto-bold">Barnzilla Web Development</span>
-  <br />
-  <span class="roboto-light color-grey1">{{< fa calendar-days >}}</span> 
-  2006 - present
-  <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
-  Ottawa, Canada
-  <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-    <li>Develop, design and maintain custom websites for clients on virtual private servers (LAMP stacks). Some of these clients are academic research networks where custom code is actively deployed to handle all aspects of conference management (e.g., abstract submission and review, membership and conference registration, fee processing).</li>
-    <li>Develop custom web-based dashboards that reshape, filter and visualize data based on user behavior (e.g., <a href="https://613apps.ca/cgc" target="_blank">Canada Grains Council Trade Data Online</a>, <a href="https://613apps.ca/covid19" target="_blank">Covid-19 cases in Canada</a>).</li>
-    <li>Have developed and designed 50+ websites for clients since 2006.</li>
-  </ul>
-</p>
-
-:::
-
-::::

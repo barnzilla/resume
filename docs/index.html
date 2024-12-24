@@ -113,19 +113,19 @@ Data Scientist
 <span class="roboto-bold">Statistics Canada</span> <br> <span class="roboto-light color-grey1"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i></span> 2020 - present <span class="roboto-light color-grey1" style="margin-left: 8px;"><i class="fa-solid fa-location-dot" aria-label="location-dot"></i></span> Ottawa, Canada
 </p><ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
 <li>
-Develop and maintain <a href="https://www.statcan.gc.ca/en/microsimulation/modgen/new/mods/pohem" target="_blank">POHEM</a> (a longitudinal microsimulation model that forecasts various health risk factors and outcomes — obesity, diabetes, dementia, cardiovascular disease — in Canadians from 2001 to 2050) that is used by the Government of Canada to inform policy decisions.
+Develop and maintain an agent-based model (<a href="https://www.statcan.gc.ca/en/microsimulation/modgen/new/mods/pohem" target="_blank">POHEM</a>) by creating new sub-models that contain cross-sectional and longitudinal predictive algorithms, which forecast various health risk factors and outcomes (e.g., obesity, diabetes, dementia, cardiovascular disease) in Canadians from 2001 to 2050; used by the Government of Canada to inform policy decisions.
 </li>
 <li>
-Authored and maintain <strong>chms</strong> (an internal, object-oriented R package that applies sleep, physical activity and sedentary behavior algorithms to accelerometer-measured time series data) that a division with no open source expertise used to process accelerometer data on 4,000+ participants for cycle 7 of a nationally representative survey, the <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=5071" target="_blank">Canadian Health Measures Survey</a>.
+Developed and maintain <strong>chms</strong>, an internal object-oriented R package that uses distributed processing to apply algorithms to <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=5071" target="_blank">national health data</a>, reducing processing time by 10x.
 </li>
 <li>
-Authored and maintain <strong>ompp4aaw</strong> (an internal R package that allows users with little or no proficiency in Linux distributions and Kubernetes to install, compile and run their models) that is used by model developers across several microsimulation divisions.
+Built and manage an internal R package, <strong>ompp4aaw</strong>, that enables model developers across divisions within Statistics Canada to easily install, compile and deploy OpenM++ simulation models across machines/nodes with limited/no knowledge of Linux distributions and Kubernetes.
 </li>
 <li>
-Authored and maintain <a href="https://613apps.ca/data-dictionary-builder" target="_blank">Data Dictionary Builder</a> (an R Shiny web-based app that groups survey metadata from flat files across multiple cycles of several national surveys and makes it searchable) that enables Statistics Canada analysts and external researchers to find variables and plan analyses more efficiently.
+Designed and developed an R Shiny web-based app, <a href="https://613apps.ca/data-dictionary-builder" target="_blank">Data Dictionary Builder</a>, that groups 10+ years of national survey metadata from flat files in a filterable/searchable format, making the lives of Statistics Canada analysts and external researchers simpler and easier by allowing them to identify variables and plan analyses more efficiently.
 </li>
 <li>
-<a href="https://www.statcan.gc.ca/en/data-science/network/ppe-demand" target="_blank">Modeled Covid-19 cases in nine Canadian provinces</a> on a weekly basis during the Covid-19 pandemic using compartment models via a co-authored R package, <a href="https://github.com/statcan/episim" target="_blank">EpiSim</a>. Created scenarios that forecasted Covid-19 cases one year into the future. Results were used downstream in a Microsoft Azure pipeline to help the Government of Canada forecast personal protective equipment demand and make evidence-informed procurement decisions.
+<a href="https://www.statcan.gc.ca/en/data-science/network/ppe-demand" target="_blank">Modeled Covid-19 cases in nine Canadian provinces</a> on a weekly basis during the pandemic using compartment models via a co-authored R package, <a href="https://github.com/statcan/episim" target="_blank">EpiSim</a>, that forecasted cases one year into the future; deployed all models within a Microsoft Azure production pipeline using Apache Spark; tuned model performance (e.g., runtime and accuracy) on a weekly basis using updated case data, parallel processing and minimizing functions; models were used to help the Government of Canada forecast personal protective equipment demand and make evidence-informed procurement decisions.
 </li>
 </ul>
 <p></p>

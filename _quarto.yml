@@ -4,11 +4,8 @@ project:
 
 website:
   title: ""
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - about.qmd
+  google-analytics: "G-EG6MCCLWVL"
+  cookie-consent: true
 
 format:
   html:

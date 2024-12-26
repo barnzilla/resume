@@ -7,7 +7,7 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
 <h4 style="margin-top: -0.85em; padding-top: 0;" class="roboto-bold color-grey1">Data Scientist | Model Developer | Analytics</h4>
 
 <p class="roboto-light">
-  <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank">github.com/barnzilla</a>
+  <span class="roboto-light color-blue"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank">github.com/barnzilla</a>
   <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank">linkedin.com/in/joel-barnes-5a80a449</a>
   <span class="roboto-light color-blue" style="margin-left: 8px;">{{< fa location-dot >}}</span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
 </p>

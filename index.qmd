@@ -60,8 +60,8 @@ title: "Joel Barnes &#187; Data Scientist | Model Developer | Analytics"
   <span class="roboto-light color-grey1" style="margin-left: 8px;">{{< fa location-dot >}}</span>
   Ottawa, Canada
   <ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-    <li>Design, build and maintain custom websites for clients on virtual private servers (LAMP stacks); includes caching setup and website speed testing to ensure websites load quickly (e.g., <a href="https://tools.pingdom.com/#64fea9e396800000" target="_blank">scapps.org speed test</a>)</li>
-    <li>Develop and deploy custom code, incuding relatonal database modeling, for academic society clients to manage key academic conference functions including paper submissions, fee processing and registration; </li> 
+    <li>Design, build and maintain custom websites for clients on virtual private servers (LAMP stacks); includes caching setup and website speed testing to ensure websites load quickly (e.g., <a href="https://tools.pingdom.com/#64fea9e396800000" target="_blank">scapps.org speed test</a>).</li>
+    <li>Develop and deploy custom code, including relational database modeling, for academic society clients to manage key academic conference functions including paper submissions, fee processing and registration.</li> 
     <li>Develop custom web-based dashboards that reshape, filter and visualize data based on user behavior (e.g., <a href="https://613apps.ca/cgc" target="_blank">Canada Grains Council Trade Data Online</a>, <a href="https://613apps.ca/covid19" target="_blank">Covid-19 cases in Canada</a>).</li>
     <li>Have designed and developed 50+ websites for clients since 2006.</li>
   </ul>

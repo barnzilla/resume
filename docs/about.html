@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Joel Barnes » Data Scientist | Model Developer | Analytics</title>
+<title>About</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -40,8 +74,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-ee1d59c07eb479f5557446744be125b4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -116,7 +148,7 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Joel Barnes » Data Scientist | Model Developer | Analytics</h1>
+<h1 class="title">About</h1>
 </div>
 
 
@@ -133,108 +165,13 @@ cookieconsent.run({
 </header>
 
 
-<h1 class="roboto-black to-upper" style="font-size: 2.5em;">
-Joel Barnes
-</h1>
-<h4 style="margin-top: -0.85em; padding-top: 0;" class="roboto-bold color-grey1 anchored">
-Data Scientist | Model Developer | Analytics
-</h4>
-<p class="roboto-light">
-<span class="roboto-light color-blue"><i class="fa-brands fa-github"></i></span> <a href="https://github.com/barnzilla" target="_blank">github.com/barnzilla</a> <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-brands fa-linkedin"></i></span> <a href="https://www.linkedin.com/in/joel-barnes-5a80a449" target="_blank">linkedin.com/in/joel-barnes-5a80a449</a> <span class="roboto-light color-blue" style="margin-left: 8px;"><i class="fa-solid fa-location-dot" aria-label="location-dot"></i></span> Ottawa, Canada <i class="fa-brands fa-canadian-maple-leaf color-red"></i>
-</p>
-<h3 class="roboto-black to-upper anchored" style="border-bottom: 2px solid black;">
-Experience
-</h3>
-<h4 class="roboto-light color-grey1 anchored" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">
-Data Scientist
-</h4>
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-<span class="roboto-bold">Statistics Canada</span> <br> <span class="roboto-light color-grey1"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i></span> 2020 - present <span class="roboto-light color-grey1" style="margin-left: 8px;"><i class="fa-solid fa-location-dot" aria-label="location-dot"></i></span> Ottawa, Canada
-</p><ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-<li>
-Develop and maintain an agent-based model (<a href="https://www.statcan.gc.ca/en/microsimulation/modgen/new/mods/pohem" target="_blank">POHEM</a>) by creating new sub-models that contain cross-sectional and longitudinal predictive algorithms, which forecast various health risk factors and outcomes (e.g., obesity, diabetes, dementia, cardiovascular disease) in Canadians from 2001 to 2050; used by the Government of Canada to inform policy decisions.
-</li>
-<li>
-Serve as lead for team members; help them troubleshoot various issues (e.g., predictive modeling guidance, simulation model compilation errors, Docker build issues).
-</li>
-<li>
-Develop and continuously test an R Shiny web-based lightweight UI for <a href="https://openmpp.org" target="_blank">OpenM++</a> agent-based modeling that uses React and a key-value stores caching system (<a href="https://cachem.r-lib.org" target="_blank">cachem</a>); enables model developers to easily create/run model scenarios and download results.
-</li>
-<li>
-Developed and maintain an object-oriented R package (<strong>chms</strong>) that uses distributed processing to apply algorithms to <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=5071" target="_blank">national health data</a>, reducing processing time by 10x.
-</li>
-<li>
-Built and manage an R package, <strong>ompp4aaw</strong>, that enables model developers across divisions within Statistics Canada to easily install, compile and deploy OpenM++ simulation models across machines/nodes with limited/no knowledge of Linux distributions and Kubernetes.
-</li>
-<li>
-Designed and developed an R Shiny web-based app, <a href="https://613apps.ca/data-dictionary-builder" target="_blank">Data Dictionary Builder</a>, that groups 10+ years of national survey metadata from flat files in a filterable/searchable format, making the lives of Statistics Canada analysts and external researchers simpler and easier by allowing them to identify variables and plan analyses more efficiently.
-</li>
-<li>
-<a href="https://www.statcan.gc.ca/en/data-science/network/ppe-demand" target="_blank">Modeled Covid-19 cases in nine Canadian provinces</a> on a weekly basis during the pandemic using compartment models via a co-authored R package, <a href="https://github.com/statcan/episim" target="_blank">EpiSim</a>, that forecasted cases one year into the future; deployed all models within a Microsoft Azure production pipeline using Apache Spark; tuned model performance (e.g., runtime and accuracy) on a weekly basis using updated case data, parallel processing and minimizing functions; models were used to help the Government of Canada forecast personal protective equipment demand and make evidence-informed procurement decisions.
-</li>
-</ul>
-<p></p>
-<h4 class="roboto-light color-grey1 anchored" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">
-Data Scientist
-</h4>
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-<span class="roboto-bold">CHEO Research Institute</span> <br> <span class="roboto-light color-grey1"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i></span> 2008 - 2019 <span class="roboto-light color-grey1" style="margin-left: 8px;"><i class="fa-solid fa-location-dot" aria-label="location-dot"></i></span> Ottawa, Canada
-</p><ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-<li>
-Performed various modeling techniques on large datasets related to movement behaviours (physical activity, sedentary behavior, sleep) and health outcomes in children and youth. Analyses have been published in <a href="publications.html">70+ peer-reviewed publications</a> contributing to an h-index of <a href="https://scholar.google.com/citations?user=oIMGmrQAAAAJ&amp;hl=en" target="_blank">43</a>, which is equivalent to the research output of a full professor.
-</li>
-<li>
-Served as a full-stack web developer that designed, built and maintained five websites on LAMP stacks.
-</li>
-<li>
-Served as lead author and manager of contributing authors on seven <a href="https://www.participaction.com/the-science/children-and-youth-report-card" target="_blank">ParticipACTION Report Cards on Physical Activity for Children and Youth</a> (2011-2016, 2018), a knowledge translation product that <a href="https://journals.humankinetics.com/view/journals/jpah/11/s1/article-pS3.xml" target="_blank">has received one billion+ media impressions and that has an estimated collective ad value of $10 million+</a>.
-</li>
-</ul>
-<p></p>
-<h4 class="roboto-light color-grey1 anchored" style="margin-bottom: 0; padding-top: 0; font-size: 1em;">
-Freelance Web Developer
-</h4>
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-<span class="roboto-bold">Barnzilla Web Development</span> <br> <span class="roboto-light color-grey1"><i class="fa-solid fa-calendar-days" aria-label="calendar-days"></i></span> 2006 - present <span class="roboto-light color-grey1" style="margin-left: 8px;"><i class="fa-solid fa-location-dot" aria-label="location-dot"></i></span> Ottawa, Canada
-</p><ul class="roboto-light color-black" style="margin-top: 0; padding-top: 0;">
-<li>
-Design, build and maintain custom websites for clients on virtual private servers (LAMP stacks); includes caching setup and website speed testing to ensure websites load quickly (e.g., <a href="https://tools.pingdom.com/#64fea9e396800000" target="_blank">scapps.org speed test</a>).
-</li>
-<li>
-Develop and deploy custom code, including relational database modeling, for academic society clients to manage key academic conference functions including paper submissions, fee processing and registration.
-</li>
-<li>
-Develop custom web-based dashboards that reshape, filter and visualize data based on user behavior (e.g., <a href="https://613apps.ca/cgc" target="_blank">Canada Grains Council Trade Data Online</a>, <a href="https://613apps.ca/covid19" target="_blank">Covid-19 cases in Canada</a>).
-</li>
-<li>
-Have designed and developed 50+ websites for clients since 2006.
-</li>
-</ul>
-<p></p>
-<h3 class="roboto-black to-upper anchored" style="border-bottom: 2px solid black;">
-Skills
-</h3>
-<p class="roboto-black color-grey1">
-Modeling, Analysis and Visualization <br> <span class="roboto-light color-black">R, Python, OpenM++, C++, SQLite, Shiny, Quarto</span>
-</p>
-<p class="roboto-black color-grey1">
-Builds, Deployment and Pipelines <br> <span class="roboto-light color-black">Azure Data Factory, Azure Data Lake, Azure Databricks, Apache Spark, DigitalOcean droplets, Kubeflow, Kubernetes, Jupyter Notebook, Docker, Grafana</span>
-</p>
-<p class="roboto-black color-grey1">
-Stacks <br> <span class="roboto-light color-black">Debian, Ubuntu, Apache, Nginx, MySQL, MariaDB, PHP</span>
-</p>
-<p class="roboto-black color-grey1">
-Frontend <br> <span class="roboto-light color-black">HTML, CSS/SCSS, jQuery, JavaScript, DataTables, WordPress, React, Vue</span>
-</p>
-<h3 class="roboto-black to-upper anchored" style="border-bottom: 2px solid black;">
-Education
-</h3>
-<h4 class="roboto-light color-grey1 anchored" style="margin-top: 0; margin-bottom: 0; padding-top: 0; font-size: 1em;">
-MSc in Kinesiology
-</h4>
-<p class="roboto-light color-black" style="margin-bottom: 0;">
-<span class="roboto-bold">University of Saskatchewan</span> <br> <span class="roboto-light color-grey1"><i class="fa-solid fa-location-dot" aria-label="location-dot"></i></span> Saskatoon, Canada
-</p>
+<p>About this site</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
 
 
 
